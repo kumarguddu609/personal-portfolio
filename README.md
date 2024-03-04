@@ -4,7 +4,7 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 
 ## Demo
 
-- [Live](https://guddu.tech/ "View Live")
+- [Live](https://kumarguddu609.github.io/personal-portfolio/ "View Live")
 
 ## Prerequisites
 
